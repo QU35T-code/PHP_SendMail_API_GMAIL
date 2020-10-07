@@ -1,7 +1,6 @@
 # PHP_SendMail_API_GMAIL
 
 - Windows :
-  <b>Install composer</b>
   - Download the setup and install it on your machine.
   https://getcomposer.org/download/
   - Clone the repository.
