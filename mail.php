@@ -4,7 +4,6 @@
       $this->include();
     }
 
-
     private function include() {
       require __DIR__ . '\vendor\autoload.php';
       include "connection.php";
